@@ -20,18 +20,16 @@ Here are some ideas to get you started:
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 사람을 위해 만듭니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 불편함을 해소하고 개선하며, 제 기술로 세상을 이롭게 하고, 도움이 되고 싶습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">저의 기술을 세상을 이롭게 하는데 기여하고<br/>
+        불편함을 해소하고 개선하며<br/>
+        사람들에게 도움이 되고 싶습니다.
+    </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white">
-          <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white">
-          <img src="https://img.shields.io/badge/Babel-F9DC3E?style=plastic&logo=Babel&logoColor=white">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
-          <img src="https://img.shields.io/badge/Eslint-4B32C3?style=plastic&logo=Eslint&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
           <br/><img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white">
@@ -40,19 +38,15 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
           <img src="https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=Netlify&logoColor=white">
-          <img src="https://img.shields.io/badge/Prettier-F7B93E?style=plastic&logo=Prettier&logoColor=white">
           <br/><img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=plastic&logo=StyledComponents&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=plastic&logo=Tailwind CSS&logoColor=white">
-          <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=Vercel&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
           </div>
     </div>
     <div align= "center">
