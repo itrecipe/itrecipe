@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&text=Hi%20I'm%20ITRecipe%20!&animation=scaleIn&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&text=Hi%20I'm%20ITRecipe%20!&animation=scaleIn&fontColor=ffffff&fontSize=70" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 사람을 위해 만듭니다. </h2>  
@@ -41,10 +41,8 @@ Here are some ideas to get you started:
           <br/><img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
-          <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=plastic&logo=StyledComponents&logoColor=white">
-          <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=plastic&logo=Tailwind CSS&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=plastic&logo=Tailwind CSS&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=Spring Security&logoColor=white">
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
           <br/>
