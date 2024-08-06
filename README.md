@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 사람을 위해 만듭니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">저의 기술로 세상을 이롭게 하는데 기여하고<br/>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">제 기술로 세상을 이롭게 하는데 기여하고<br/>
         불편함을 해소하고 개선하며<br/>
         사람들에게 도움이 되고 싶습니다.
     </div> 
