@@ -40,13 +40,12 @@ Here are some ideas to get you started:
                 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
                 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=Spring Security&logoColor=white"><br/>
                 <!-- FE -->
-                <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
                 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
+                <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
                 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
                 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"><br/>
                 <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white">
                 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
-                <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"><br/>
             </div>
     </div>
     <div align= "center">
