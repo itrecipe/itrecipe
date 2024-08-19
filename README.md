@@ -47,8 +47,6 @@ Here are some ideas to get you started:
                 <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white">
                 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
                 <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"><br/>
-                <!-- ETC -->
-                <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white"><br/>
             </div>
     </div>
     <div align= "center">
