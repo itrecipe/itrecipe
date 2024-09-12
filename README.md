@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&text=Hi%20I'm%20ITRecipe%20!&animation=scaleIn&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&text=Hi%20I'm%20ITRecipe%20!&animation=scaleIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
         사람을 위해 고민하고<br/> 
         한번 더 생각하며 만듭니다. 
     </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">제가 가진 기술로<br/>
-        세상을 이롭게 하는데 기여하며<br/>
-        불편함을 해소하고 개선하여 사람들에게<br/>
-        도움이 되었으면 좋겠다는 생각으로 개발을<br/>
-        시작하게 되었습니다.
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
+        제가 가진 기술로<br/>
+        아프거나 어렵고 힘든 사람들에게<br/>
+        도움이 되었으면 좋겠다는 생각으로 개발자의<br/>
+        길을 선택하게 되었습니다.
     </div> 
     </div>
     <div align= "center">
