@@ -25,8 +25,9 @@ Here are some ideas to get you started:
     </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
         제가 가진 기술로<br/>
-        아프거나 어렵고 힘든 사람들에게<br/>
-        도움이 되었으면 좋겠다는 생각으로<br/>
+        어렵고, 힘들고, 아픈<br/>
+        사람들에게 도움이 되었으면<br/>
+        좋겠다 라는 생각으로<br/>
         개발자가 되기 위한<br/>
         여정을 시작하게 되었습니다.
     </div> 
