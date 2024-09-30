@@ -24,13 +24,8 @@ Here are some ideas to get you started:
         한번 더 생각하며 만듭니다.
     </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
-        제가 가진 기술로<br/>
-        아프거나 어렵고 힘든<br/>
-        사람들에게 도움을 줄 수 있는<br/>
-        사람이 되었으면<br/>
-        좋겠다 라는 생각으로<br/>
-        개발자가 되기 위한<br/>
-        여정을 시작하게 되었습니다.
+        제가 가진 기술이 많은 사람들에게 도움이 되었으면 좋겠다는<br/>
+        생각으로 개발자가 되기 위한 여정을 시작하게 되었습니다.<br/>
     </div> 
     </div>
     <div align= "center">
