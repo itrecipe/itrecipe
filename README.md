@@ -24,8 +24,10 @@ Here are some ideas to get you started:
         한번 더 생각하며 만듭니다.
     </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
-        제가 가진 기술이 많은 사람들에게 도움이 되었으면 좋겠다는<br/>
-        생각으로 개발자가 되기 위한 여정을 시작하게 되었습니다.<br/>
+        제가 가진 기술로<br/>
+        "많은 사람들에게 도움을 줄 수 있으면 좋겠다"<br/>
+        라는 생각으로 개발자가 되기 위한 여정을<br/>
+        시작하게 되었습니다.<br/>
     </div> 
     </div>
     <div align= "center">
