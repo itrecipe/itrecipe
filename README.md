@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=130&text=Hi%20I'm%20ITRecipe%20!&animation=scaleIn&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=120&text=Hi%20I'm%20ITRecipe%20!&animation=scaleIn&fontColor=ffffff&fontSize=55" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
