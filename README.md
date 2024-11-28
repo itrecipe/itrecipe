@@ -20,15 +20,16 @@ Here are some ideas to get you started:
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
-        사람을 위해 고민하고<br/> 
+        사용자를 위해 고민하고<br/> 
         한번 더 생각하며 만듭니다.
     </h2>
     <br/>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
-        제가 가진 기술이<br/>
-        "사람들에게 도움이 되었으면 좋겠다"<br/>
-        라는 생각으로 개발자가 되기 위한 여정을<br/>
-        시작하게 되었습니다.<br/>
+        제가 가진 기술이 <br/>
+        사용자들에게 큰 도움이 되는<br/>
+        "필요한 기술이면 좋겠다" 라는 <br/> 
+        생각을 하며 개발자가 되기 위한 <br/>
+        여정을 시작하게 되었습니다.<br/>
     </div> 
     </div>
 <br/>
