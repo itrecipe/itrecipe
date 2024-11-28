@@ -31,9 +31,9 @@ Here are some ideas to get you started:
         시작하게 되었습니다.<br/>
     </div> 
     </div>
+<br/>
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
-    <br>
     <!-- Back-End Section -->
     <div>
         <h3 style="color: #6DB33F;">🔧 Back-End</h3>
