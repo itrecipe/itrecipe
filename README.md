@@ -23,6 +23,7 @@ Here are some ideas to get you started:
         사람을 위해 고민하고<br/> 
         한번 더 생각하며 만듭니다.
     </h2>
+    <br/>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
         제가 가진 기술이<br/>
         "사람들에게 도움이 되었으면 좋겠다"<br/>
@@ -50,7 +51,7 @@ Here are some ideas to get you started:
         <h3 style="color: #61DAFB;">🎨 Front-End</h3>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
-        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white"> <br/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
     </div>
