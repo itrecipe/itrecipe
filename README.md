@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     </h2>
     <br/>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
-        제가 가진 기술이 <br/>
+        내가 가진 기술이 <br/>
         사용자에게 도움이 되는<br/>
         "꼭 필요한 기술이면 좋겠다" 라는 <br/> 
         생각으로 개발자가 되기 위한 <br/>
