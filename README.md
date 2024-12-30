@@ -26,9 +26,9 @@ Here are some ideas to get you started:
     <br/>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
         내가 가진 기술이 <br/>
-        사용자에게 도움이 되는<br/>
-        "꼭 필요한 기술이면 좋겠다" 라는 <br/> 
-        생각으로 개발자의 길을 걷기 <br/>
+        사용자들에게 도움이 되는<br/>
+        "유용한 기술이면 좋겠다" 라는 <br/> 
+        생각을 갖고 개발자의 길을 걷기 <br/>
         시작하였습니다. <br/>
     </div> 
     </div>
